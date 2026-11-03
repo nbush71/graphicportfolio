@@ -17,9 +17,7 @@ export default function Hero() {
           Graphic Design Portfolio
         </p>
         <h1 className="mb-6 font-serif text-5xl font-bold leading-[1.08] md:text-6xl">
-          Nadine
-          <br />
-          Ann <em className="text-accent">Bush</em>
+          Nadine <em className="text-accent"><br />Bush</em>
         </h1>
         <p className="mb-10 max-w-sm font-light leading-relaxed text-muted">
           Logos, publications, print production and web layouts — from press-printed booklets in

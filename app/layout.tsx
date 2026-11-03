@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Nadine Ann Bush — Graphic Design Portfolio",
+  title: "Nadine Bush — Graphic Design Portfolio",
   description:
-    "Graphic design portfolio of Nadine Ann Bush: logos, publications, print production and web layouts.",
+    "Graphic design portfolio of Nadine Bush: logos, publications, print production and web layouts.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
